@@ -1,3 +1,4 @@
+# typed: true
 require 'traject/line_writer'
 
 # A simple line writer that uses configuration to determine

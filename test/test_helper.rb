@@ -1,3 +1,4 @@
+# typed: false
 gem 'minitest' # I feel like this messes with bundler, but only way to get minitest to shut up
 require 'minitest/autorun'
 require 'minitest/spec'

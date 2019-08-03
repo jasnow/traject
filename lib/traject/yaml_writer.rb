@@ -1,3 +1,4 @@
+# typed: true
 require 'traject/line_writer'
 require 'yaml'
 

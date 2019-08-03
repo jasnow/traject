@@ -1,3 +1,4 @@
+# typed: false
 require 'test_helper'
 
 require 'traject/macros/marc_format_classifier'

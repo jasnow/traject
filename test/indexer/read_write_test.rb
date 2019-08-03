@@ -1,3 +1,4 @@
+# typed: false
 require 'test_helper'
 
 # A little Traject Writer that just keeps everything

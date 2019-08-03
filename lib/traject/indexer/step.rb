@@ -1,3 +1,4 @@
+# typed: true
 # An indexing step definition, including it's source location
 # for logging
 #

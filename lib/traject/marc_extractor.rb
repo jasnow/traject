@@ -1,3 +1,4 @@
+# typed: false
 require 'traject/marc_extractor_spec'
 
 module Traject

@@ -1,3 +1,4 @@
+# typed: true
 require 'traject/line_writer'
 
 # The Traject::DebugWriter produces a simple, human-readable output format that's

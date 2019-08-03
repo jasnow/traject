@@ -1,3 +1,4 @@
+# typed: false
 require 'traject/marc_extractor'
 require 'traject/translation_map'
 require 'traject/util'

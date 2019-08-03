@@ -1,3 +1,4 @@
+# typed: false
 module Traject::Macros
   module Basic
     def literal(literal)

@@ -1,3 +1,4 @@
+# typed: false
 require 'test_helper'
 require 'traject/oai_pmh_nokogiri_reader'
 

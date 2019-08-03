@@ -1,3 +1,4 @@
+# typed: ignore
 # this is not good ruby code at all.
 
 x+y

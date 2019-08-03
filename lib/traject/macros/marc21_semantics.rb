@@ -1,3 +1,4 @@
+# typed: false
 # Encoding: UTF-8
 
 require 'traject/marc_extractor'

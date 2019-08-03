@@ -1,3 +1,4 @@
+# typed: false
 require 'ht_traject/ht_constants'
 
 

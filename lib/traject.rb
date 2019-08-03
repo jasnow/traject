@@ -1,3 +1,4 @@
+# typed: strong
 require "traject/version"
 
 require 'traject/hashie/indifferent_access_fix'

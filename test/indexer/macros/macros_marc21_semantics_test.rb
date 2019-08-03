@@ -1,3 +1,4 @@
+# typed: false
 # Encoding: UTF-8
 
 require 'test_helper'

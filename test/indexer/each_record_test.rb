@@ -1,3 +1,4 @@
+# typed: false
 require 'test_helper'
 
 describe "Traject::Indexer#each_record" do

@@ -1,3 +1,4 @@
+# typed: false
 require 'test_helper'
 require 'traject/experimental_nokogiri_streaming_reader'
 

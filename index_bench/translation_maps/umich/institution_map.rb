@@ -1,3 +1,4 @@
+# typed: strong
 {
     'MiAaUTR' => ["UM Ann Arbor Libraries", "Transportation Research Institute Library (UMTRI)"],
     'MIU' => ["UM Ann Arbor Libraries", "University Library"],

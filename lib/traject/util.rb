@@ -1,3 +1,4 @@
+# typed: false
 module Traject
   # Just some internal utility methods
   module Util

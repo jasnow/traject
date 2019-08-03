@@ -1,3 +1,4 @@
+# typed: true
 # Encoding: utf-8
 require 'marc'
 require 'json'

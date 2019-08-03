@@ -1,3 +1,4 @@
+# typed: strong
 {
     "avail_ht_fulltext"=>"Full text available online via HathiTrust",
     "avail_circ"=>"Circulating volumes",

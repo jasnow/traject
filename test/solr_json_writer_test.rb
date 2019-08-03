@@ -1,3 +1,4 @@
+# typed: false
 require 'test_helper'
 require 'httpclient'
 require 'traject/solr_json_writer'

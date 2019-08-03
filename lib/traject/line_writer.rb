@@ -1,3 +1,4 @@
+# typed: false
 require 'thread'
 
 # A writer for Traject::Indexer, that just writes out

@@ -1,3 +1,4 @@
+# typed: true
 module Traject
   # Uses #put method from the traject writer API to just accumulate
   # output_hash'es in an array. Useful for testing, or for simple programmatic

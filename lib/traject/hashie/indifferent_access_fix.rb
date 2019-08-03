@@ -1,3 +1,4 @@
+# typed: false
 require 'hashie'
 
 module Traject

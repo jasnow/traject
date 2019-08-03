@@ -1,3 +1,4 @@
+# typed: ignore
 require 'marc'
 require 'json'
 require 'zlib'

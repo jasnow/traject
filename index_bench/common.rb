@@ -1,3 +1,4 @@
+# typed: ignore
 require 'library_stdnums'
 
 $:.unshift '.'

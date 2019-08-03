@@ -1,3 +1,4 @@
+# typed: strong
   {"mdp"=>"University of Michigan",
    "miua"=>"University of Michigan",
    "miun"=>"University of Michigan",

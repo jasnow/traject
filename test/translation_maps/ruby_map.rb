@@ -1,3 +1,4 @@
+# typed: strong
 foo = "bar"
 
 some_hash = {

@@ -1,3 +1,4 @@
+# typed: false
 require 'traject/nokogiri_reader'
 require 'traject/macros/nokogiri_macros'
 require 'traject/oai_pmh_nokogiri_reader'

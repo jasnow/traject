@@ -1,3 +1,4 @@
+# typed: false
 require 'test_helper'
 
 describe "Class-level configuration of Indexer sub-class" do

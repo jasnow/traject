@@ -1,3 +1,4 @@
+# typed: true
 require 'json'
 require 'traject/line_writer'
 

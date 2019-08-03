@@ -1,3 +1,4 @@
+# typed: true
 module Traject
   class Indexer
     # An indexer sub-class that includes "extract_marc" and other macros from

@@ -1,3 +1,4 @@
+# typed: ignore
 require 'uri'
 require 'cgi'
 require 'http'

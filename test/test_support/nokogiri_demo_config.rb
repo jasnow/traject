@@ -1,3 +1,4 @@
+# typed: false
 settings do
   provide "nokogiri.namespaces",  {
     "oai" => "http://www.openarchives.org/OAI/2.0/",

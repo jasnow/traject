@@ -1,3 +1,4 @@
+# typed: ignore
 module Traject
   # An EXPERIMENTAL HALF-FINISHED implementation of a streaming/pull reader using Nokogiri.
   # Not ready for use, not stable API, could go away.

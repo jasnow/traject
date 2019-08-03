@@ -1,3 +1,4 @@
+# typed: false
 require 'yell'
 
 require 'traject/qualified_const_get'

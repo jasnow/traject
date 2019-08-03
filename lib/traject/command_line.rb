@@ -1,3 +1,4 @@
+# typed: false
 require 'slop'
 require 'traject'
 require 'traject/indexer'

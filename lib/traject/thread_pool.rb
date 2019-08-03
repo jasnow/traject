@@ -1,3 +1,4 @@
+# typed: false
 require 'concurrent'
 require 'thread' # for Queue
 

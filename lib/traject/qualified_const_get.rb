@@ -1,3 +1,4 @@
+# typed: false
 # From http://redcorundum.blogspot.com/2006/05/kernelqualifiedconstget.html
 # Adapted into a module, rather than monkey patching it into Kernel
 #

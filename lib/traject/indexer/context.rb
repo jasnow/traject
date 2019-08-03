@@ -1,3 +1,4 @@
+# typed: false
 # Represents the context of a specific record being indexed, passed
 # to indexing logic blocks
 #

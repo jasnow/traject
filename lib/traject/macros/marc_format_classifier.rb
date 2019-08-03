@@ -1,3 +1,4 @@
+# typed: false
 module Traject
   module Macros
     # To use the marc_format macro, in your configuration file:

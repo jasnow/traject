@@ -1,4 +1,5 @@
 #!/usr/bin/env jruby
+# typed: false
 $:.unshift File.expand_path('../../lib', __FILE__)
 
 require 'traject/command_line'

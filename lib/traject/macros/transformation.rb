@@ -1,3 +1,4 @@
+# typed: false
 module Traject
   module Macros
     # Macros intended to be mixed into an Indexer and used in config

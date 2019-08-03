@@ -1,3 +1,4 @@
+# typed: true
 # Represents a single specification for extracting data
 # from a marc field, like "600abc" or "600|1*|x".
 #

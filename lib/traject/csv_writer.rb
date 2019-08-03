@@ -1,3 +1,4 @@
+# typed: true
 require 'traject/delimited_writer'
 require 'csv'
 

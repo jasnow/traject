@@ -1,3 +1,4 @@
+# typed: strong
 {
  "xr"=>"Czech Republic",
  "xp"=>"Spratly Island",

@@ -1,3 +1,4 @@
+# typed: false
 require 'test_helper'
 
 describe 'Custom mapping error handler' do
