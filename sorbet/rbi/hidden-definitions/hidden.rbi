@@ -12951,6 +12951,68 @@ class Traject::Indexer::Settings
   def self.try_convert(*_); end
 end
 
+class Traject::NDJReader
+  include ::Enumerable
+  def each(&blk); end
+
+  def initialize(input_stream, settings); end
+
+  def logger(); end
+end
+
+class Traject::NDJReader
+end
+
+class Traject::NokogiriReader
+  include ::Enumerable
+  def clipboard(); end
+
+  def default_namespaces(); end
+
+  def each(&blk); end
+
+  def each_record_xpath(); end
+
+  def extra_xpath_hooks(); end
+
+  def initialize(input_stream, settings); end
+
+  def input_stream(); end
+
+  def path_tracker(); end
+
+  def settings(); end
+end
+
+class Traject::NokogiriReader
+end
+
+class Traject::OaiPmhNokogiriReader
+  include ::Enumerable
+  def each(&blk); end
+
+  def extra_xpath_hooks(); end
+
+  def initialize(input_stream, settings); end
+
+  def input_stream(); end
+
+  def logger(); end
+
+  def resumption_url(resumption_token); end
+
+  def settings(); end
+
+  def start_url(); end
+
+  def start_url_verb(); end
+
+  def timeout(); end
+end
+
+class Traject::OaiPmhNokogiriReader
+end
+
 class TrueClass
   include ::JSON::Ext::Generator::GeneratorMethods::TrueClass
 end

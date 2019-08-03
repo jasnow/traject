@@ -6822,6 +6822,34 @@
 # wrong constant name values_at
 # wrong constant name try_convert
 # wrong constant name try_convert
+# uninitialized constant Traject::NDJReader::Elem
+# wrong constant name each
+# wrong constant name initialize
+# wrong constant name logger
+# wrong constant name <static-init>
+# uninitialized constant Traject::NokogiriReader::Elem
+# wrong constant name clipboard
+# wrong constant name default_namespaces
+# wrong constant name each
+# wrong constant name each_record_xpath
+# wrong constant name extra_xpath_hooks
+# wrong constant name initialize
+# wrong constant name input_stream
+# wrong constant name path_tracker
+# wrong constant name settings
+# wrong constant name <static-init>
+# uninitialized constant Traject::OaiPmhNokogiriReader::Elem
+# wrong constant name each
+# wrong constant name extra_xpath_hooks
+# wrong constant name initialize
+# wrong constant name input_stream
+# wrong constant name logger
+# wrong constant name resumption_url
+# wrong constant name settings
+# wrong constant name start_url
+# wrong constant name start_url_verb
+# wrong constant name timeout
+# wrong constant name <static-init>
 # wrong constant name <Class:Normalizer>
 # wrong constant name normalize
 # wrong constant name <static-init>

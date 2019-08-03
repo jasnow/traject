@@ -35,12 +35,3 @@ module Traject::ExperimentalNokogiriStreamingReader; end
 module Traject::ExperimentalNokogiriStreamingReader; end
 module Traject::ExperimentalNokogiriStreamingReader; end
 module Traject::ExperimentalNokogiriStreamingReader; end
-module Traject::NDJReader; end
-module Traject::NokogiriReader; end
-module Traject::NokogiriReader; end
-module Traject::NokogiriReader; end
-module Traject::NokogiriReader; end
-module Traject::NokogiriReader; end
-module Traject::NokogiriReader; end
-module Traject::NokogiriReader; end
-module Traject::OaiPmhNokogiriReader; end

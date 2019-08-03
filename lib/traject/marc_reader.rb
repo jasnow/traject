@@ -1,4 +1,4 @@
-# typed: false
+# typed: true
 require 'marc'
 require 'traject/ndj_reader'
 
