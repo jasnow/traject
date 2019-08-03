@@ -1,0 +1,94 @@
+PATH
+  remote: .
+  specs:
+    traject (3.1.0)
+      concurrent-ruby (>= 0.8.0)
+      dot-properties (>= 0.1.1)
+      hashie (~> 3.1)
+      http (~> 3.0)
+      httpclient (~> 2.5)
+      marc (~> 1.0)
+      marc-fastxmlwriter (~> 1.0)
+      nokogiri (~> 1.9)
+      slop (>= 3.4.5, < 4.0)
+      yell
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    addressable (2.6.0)
+      public_suffix (>= 2.0.2, < 4.0)
+    byebug (11.0.1)
+    concurrent-ruby (1.1.5)
+    crack (0.4.3)
+      safe_yaml (~> 1.0.0)
+    dalli (2.7.10)
+    diff-lcs (1.3)
+    domain_name (0.5.20190701)
+      unf (>= 0.0.5, < 1.0.0)
+    dot-properties (0.1.3)
+    hashdiff (1.0.0)
+    hashie (3.6.0)
+    http (3.3.0)
+      addressable (~> 2.3)
+      http-cookie (~> 1.0)
+      http-form_data (~> 2.0)
+      http_parser.rb (~> 0.6.0)
+    http-cookie (1.0.3)
+      domain_name (~> 0.5)
+    http-form_data (2.1.1)
+    http_parser.rb (0.6.0)
+    httpclient (2.8.3)
+    marc (1.0.4)
+      scrub_rb (>= 1.0.1, < 2)
+      unf
+    marc-fastxmlwriter (1.0.0)
+      marc (~> 1.0)
+    mini_portile2 (2.4.0)
+    minitest (5.11.3)
+    nokogiri (1.10.3)
+      mini_portile2 (~> 2.4.0)
+    public_suffix (3.1.1)
+    rake (12.3.3)
+    redis (4.1.2)
+    rspec-mocks (3.8.1)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.8.0)
+    rspec-support (3.8.2)
+    safe_yaml (1.0.5)
+    scrub_rb (1.0.1)
+    slop (3.6.0)
+    sorbet (0.4.4573)
+      sorbet-static (= 0.4.4573)
+    sorbet-rails (0.4.0)
+    sorbet-runtime (0.4.4573)
+    sorbet-static (0.4.4573-universal-darwin-14)
+    unf (0.1.4)
+      unf_ext
+    unf_ext (0.0.7.6)
+    webmock (3.6.2)
+      addressable (>= 2.3.6)
+      crack (>= 0.3.2)
+      hashdiff (>= 0.4.0, < 2.0.0)
+    yell (2.2.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (>= 1.7, < 3)
+  byebug
+  dalli
+  minitest
+  rake
+  redis
+  rspec-mocks (~> 3.4)
+  ruby-debug
+  sorbet
+  sorbet-rails
+  sorbet-runtime
+  traject!
+  webmock (~> 3.4)
+
+BUNDLED WITH
+   1.17.3

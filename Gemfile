@@ -11,3 +11,9 @@ group :debug do
   gem "ruby-debug", :platform => "jruby"
   gem "byebug", :platform => "mri"
 end
+
+gem 'sorbet', :group => :development
+gem 'sorbet-runtime'
+gem 'sorbet-rails'
+gem 'redis' # for sorbet and cache_store
+gem 'dalli' # for sorbet and cache_store
